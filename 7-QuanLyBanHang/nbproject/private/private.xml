@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Documents/kp/Shop/src/coffeeshop/Login.java</file>
+            <file>file:/D:/Documents/kp/Shop/src/coffeeshop/DailyRevenue.java</file>
+            <file>file:/D:/Documents/kp/Shop/src/coffeeshop/VerifyUsers.java</file>
+            <file>file:/D:/Documents/kp/Shop/src/coffeeshop/PlaceOrder.java</file>
+            <file>file:/D:/Documents/kp/Shop/src/coffeeshop/ManageCategory.java</file>
+            <file>file:/D:/Documents/kp/Shop/src/coffeeshop/AddNewProduct.java</file>
+            <file>file:/D:/Documents/kp/Shop/src/coffeeshop/CoffeeShop.java</file>
+            <file>file:/D:/Documents/kp/Shop/src/coffeeshop/ForgotPassword.java</file>
+            <file>file:/D:/Documents/kp/Shop/src/coffeeshop/Home.java</file>
+            <file>file:/D:/Documents/kp/Shop/src/coffeeshop/ViewBillsOrderDetails.java</file>
+            <file>file:/D:/Documents/kp/Shop/src/coffeeshop/ChangeSecurityQuestion.java</file>
+            <file>file:/D:/Documents/kp/Shop/src/dao/ConnectionProvider.java</file>
+            <file>file:/D:/Documents/kp/Shop/src/coffeeshop/ChangePassword.java</file>
+            <file>file:/D:/Documents/kp/Shop/src/coffeeshop/Signup.java</file>
+            <file>file:/D:/Documents/kp/Shop/src/coffeeshop/ViewEditDeleteProduct.java</file>
+        </group>
+    </open-files>
+</project-private>
